@@ -1,0 +1,31 @@
+.tamanho{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.letra{
+    text-align: center;
+}
+
+.letra1{
+    text-align: justify;
+}
+
+.icons{
+    width: 50px;
+    height: 50px;
+}
+.icons2{
+    width: 80px;
+    height: 80px;
+}
+
+.text-cor{
+    color: #188d4a;
+}
+
+.mar{
+    margin-left: 80px;
+    margin-right: 50px;
+}
